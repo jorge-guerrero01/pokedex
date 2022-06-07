@@ -1,5 +1,4 @@
 import { MouseEventHandler } from "react";
-import styled from "styled-components";
 import { Container, Texto } from "../../GlobalStyle.style";
 
 export const Imagen = (className?: string) => {
